@@ -1,8 +1,5 @@
 # COWBOYHACKER-WALKTHROUGH-THM
-
-Here’s a sample README.md description file for your GitHub repository, where you've uploaded the walkthrough of the Cowboy Hacker box from TryHackMe:
-
-Cowboy Hacker Walkthrough - TryHackMe
+Cowboy Hacker/Bounty Hacker Walkthrough - TryHackMe
 Description
 This repository contains a complete walkthrough for the Cowboy Hacker box on TryHackMe. The room focuses on the fundamentals of web application and system exploitation, covering topics such as:
 
